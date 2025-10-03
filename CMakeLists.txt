@@ -43,7 +43,7 @@ target_sources( rnnoise
 )
 
 target_include_directories( rnnoise
-    PRIVATE
+    PUBLIC
         include
 )
 
