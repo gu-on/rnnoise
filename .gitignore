@@ -1,0 +1,5 @@
+build/
+
+# these should be copied in from FetchContent, and should not be committed
+src/rnnoise_data.c
+src/rnnoise_data.h
